@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/kartikrathore7773/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="#">
+<a href="https://www.kartikrathore.tech/">
   <img src="https://img.shields.io/badge/Portfolio-1f2933?style=for-the-badge"/>
 </a>
 
@@ -55,23 +55,33 @@
 • Recruiter-focused dashboards  
 • Automation pipelines  
 
-### 🔹 Conversational AI Bot  
-• Context-aware chat  
-• NLP integration  
-• Web UI  
 
----
 
 ## 📊 GitHub Activity  
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=kartikrathore7773&show_icons=true&theme=nightowl"/>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikrathore7773&theme=nightowl"/>
+<!-- GitHub Stats -->
+<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikrathore7773&show_icons=true&theme=nightowl&hide_border=true"/>
+
+<!-- Streak Stats -->
+<img width="47%" src="https://streak-stats.demolab.com?user=kartikrathore7773&theme=nightowl&hide_border=true"/>
+
 <br/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikrathore7773&layout=compact&theme=nightowl"/>
+
+<!-- Top Languages -->
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikrathore7773&layout=compact&theme=nightowl&hide_border=true"/>
 
 </div>
+
+<br/>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikrathore7773&theme=nightowl&hide_border=true"/>
+</p>
+>
+
 
 ---
 

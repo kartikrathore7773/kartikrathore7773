@@ -8,6 +8,11 @@
 
 </div>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikrathore7773&label=Visitors&color=0e75b6&style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🧩 Who I Am  
@@ -55,42 +60,34 @@
 • Recruiter-focused dashboards  
 • Automation pipelines  
 
-
+---
 
 ## 📊 GitHub Activity  
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikrathore7773&show_icons=true&theme=nightowl&hide_border=true"/>
 
-<!-- Streak Stats -->
 <img width="47%" src="https://streak-stats.demolab.com?user=kartikrathore7773&theme=nightowl&hide_border=true"/>
 
 <br/>
 
-<!-- Top Languages -->
 <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikrathore7773&layout=compact&theme=nightowl&hide_border=true"/>
 
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikrathore7773&theme=nightowl&hide_border=true"/>
 </p>
->
-
 
 ---
 
 ## 💭 Daily Dev Fuel  
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 ---
@@ -98,9 +95,7 @@
 ## 🐍 Contribution Flow  
 
 <div align="center">
-
-<img src="https://github.com/kartikrathore7773/kartikrathore7773/raw/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/kartikrathore7773/kartikrathore7773/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
